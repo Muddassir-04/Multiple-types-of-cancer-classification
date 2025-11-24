@@ -1,2 +1,2 @@
-# Multiple-types-of-cancer-classification
+# Multiple types of cancer classification
 This project focuses on identifying different types of cancer using machine learning and deep learning–based classification methods. The main goal is to help in early detection by analyzing medical data and predicting the type of cancer with good accuracy. The project includes data preprocessing, exploratory data analysis, model training, evaluation, and result interpretation. It also highlights the importance of technology in supporting healthcare and improving diagnosis. The work is organized with a clear methodology, results, discussion, conclusion, and future scope. This project is part of my academic major project and demonstrates my interest in applying AI for real-world problems.
